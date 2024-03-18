@@ -8,7 +8,7 @@ export const Album = (props) => {
     };
 
     return (
-        <div onClick={handleClick}>
+        <div style={{ margin: "0", padding: "20px", border: "1px solid black" }} onClick={handleClick}>
             <div style={{display: "flex", flexDirection: "row"}}>
                 <h2>Название: {props.title} <br /> Артист: {props.artist}</h2>
                 <img style={{maxHeight: "10%", maxWidth: "10%"}} src={props.cover} alt="cover album" />
