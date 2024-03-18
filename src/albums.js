@@ -7,15 +7,15 @@ export const albums =
         cover: "https://t2.genius.com/unsafe/425x425/https%3A%2F%2Fimages.genius.com%2F2f4a09adfdb52e996ceabc4f119edbfc.1000x1000x1.png",
         songs: 
         [
-            "1. TumaniYO - Помню",
-            "2. TumaniYO feat. даена - Меланхолия",
-            "3. TumaniYO feat. Miyagi - Омут",
-            "4. TumaniYO - Доброе утро",
-            "5. TumaniYO - На контрасте", 
-            "6. TumaniYO feat. Miyagi & Эндшпиль - Tandem",
-            "7. TumaniYO feat. Ollane - Шаг",
-            "8. TumaniYO - История",
-            "9. TumaniYO - Песня дождя"
+            "TumaniYO - Помню",
+            "TumaniYO feat. даена - Меланхолия",
+            "TumaniYO feat. Miyagi - Омут",
+            "TumaniYO - Доброе утро",
+            "TumaniYO - На контрасте", 
+            "TumaniYO feat. Miyagi & Эндшпиль - Tandem",
+            "TumaniYO feat. Ollane - Шаг",
+            "TumaniYO - История",
+            "TumaniYO - Песня дождя"
         ]
     },
 
